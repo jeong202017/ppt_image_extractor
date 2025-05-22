@@ -89,7 +89,7 @@
 
 ## 데모 영상
 
-https://github.com/user-attachments/assets/9045e3c5-9287-442b-8fa4-84391047a30b
+https://github.com/user-attachments/assets/abe1f6a7-2e73-4ee1-afa1-802547dac252
 
 
 ---
