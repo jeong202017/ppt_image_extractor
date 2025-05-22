@@ -1,6 +1,5 @@
 ## 📄 README.md (한글 버전)
 
-```markdown
 # 🖼️ PPT 이미지 추출 및 텍스트 전용 PPT 생성기
 
 폴더 안의 PowerPoint(.pptx) 파일에서 **삽입된 이미지를 자동으로 추출하고**,  
